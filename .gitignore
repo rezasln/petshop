@@ -1,0 +1,9 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore store/migrations directory
+store/migrations/
+
+# Ignore pipenv files
+Pipfile
+Pipfile.lock
